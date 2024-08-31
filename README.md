@@ -30,10 +30,23 @@ A quick start template for front-end projects, optimized with Tailwind CSS and s
 -->
 
 ## 📈 GitHub Stats
+<p align="left">
+<a href="https://github.com/DimitriMabom/github-readme-stats#gh-dark-mode-only">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=DimitriMabom&show_icons=true&theme=github_dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/DimitriMabom/github-readme-stats#gh-dark-mode-only">
+  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriMabom&layout=compact&theme=github_dark#gh-dark-mode-only" />
+</a>
+</p>
 
-<!--
-![Dimitri's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitriMabom&show_icons=true&theme=radical)
--->
+<p>
+<a href="https://github.com/DimitriMabom/github-readme-stats#gh-light-mode-only">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=DimitriMabom&show_icons=true&theme=default#gh-light-mode-only" />
+</a>
+<a href="https://github.com/DimitriMabom/github-readme-stats#gh-light-mode-only">
+ <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriMabom&layout=compact&theme=default#gh-light-mode-only" />
+</a>
+</p>
 
 ## 📫 Get in Touch
 
