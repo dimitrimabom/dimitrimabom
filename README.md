@@ -6,7 +6,7 @@ Welcome to my GitHub! Here, you'll find my front-end development projects.
 
 ## 🎯 About Me
 
-I'm a passionate **front-end developer** with a special focus on **React.js** and **Next.js**. I hold a professional degree in software engineering and have a strong affinity for creating logos and visual identities. Currently, I work as a **Front Office Engineer at I Engineering**, where I combine my skills in telecommunications and development.
+I'm a passionate **front-end developer** with a special focus on **React.js** and **Next.js**. I hold a professional degree in software engineering and have a strong affinity for creating logos and visual identities. Currently, I work for I Engineering as a Front Office Engineer at MTN Cameroon**, where I combine my skills in telecommunications and development.
 
 When I'm not coding, you can find me watching the latest **anime**, reading **manga**, or diving into **sci-fi** movies. I also enjoy discussing the latest technologies and pop culture trends.
 
