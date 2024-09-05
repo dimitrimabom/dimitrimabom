@@ -24,10 +24,8 @@ An overview of my skills and web development achievements.
 ### [📺 YouTube Channel - Dimitri Mabom](https://youtube.com/@dimitrimabom)
 Check out my front-end tutorials with a pop culture twist, perfect for developers and sci-fi fans.
 
-<!--
-### [🛠 React + Next.js Starter Template](https://github.com/DimitriMabom/react-nextjs-starter)
-A quick start template for front-end projects, optimized with Tailwind CSS and smooth animations.
--->
+### [🛠 My Kit-Stater](https://github.com/dimitrimabom/kit-starter)
+A quick start template for front-end projects.
 
 ## 📈 GitHub Stats
 <p align="left">
