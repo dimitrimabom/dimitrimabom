@@ -18,7 +18,7 @@ When I'm not coding, you can find me watching the latest **anime**, reading **ma
 
 ## 📂 Featured Projects
 
-### [🌐 My Portfolio Website](https://dimitrimabom.dev)
+### [🌐 My Portfolio Website](https://dimitri.altplus.dev)
 An overview of my skills and web development achievements.
 
 ### [📺 YouTube Channel - Dimitri Mabom](https://youtube.com/@dimitrimabom)
