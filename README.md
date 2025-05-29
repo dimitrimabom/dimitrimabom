@@ -19,10 +19,10 @@ When I'm not coding, you'll find me watching the latest **anime**, reading **man
 
 ## 🛠️ My Tech Stack
 
-| Front-End                                                                                    | Languages                                                                                                   | Tools & DB                                                                                                      |
-| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat\&logo=react\&logoColor=black) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black) | ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat\&logo=mysql\&logoColor=white)                    |
-| ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat\&logo=next.js)             | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white) |
+| Front-End | Languages | Tools & DB |
+| --------- | --------- | ---------- |
+| [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/) | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/) | [![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) |
+| [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)](https://nextjs.org/) | [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) |
 
 ## 📂 Featured Projects
 
