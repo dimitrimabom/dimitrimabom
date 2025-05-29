@@ -42,7 +42,7 @@ A fast and efficient starter template for modern front-end development with Vite
 
 <!-- GitHub Stats with auto theme detection -->
 
-<p align="center">
+<p align="left">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=DimitriMabom&show_icons=true&theme=github_dark" 
