@@ -67,7 +67,7 @@ A fast and efficient starter template for modern front-end development with Vite
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dimitrimabom)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/dimitrimabom)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/dimitrimabom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dimitri-mabom)
 [![Facebook](https://img.shields.io/badge/Facebook-%232E87FB.svg?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/dimitrimabom)
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/dimitrimabom)
